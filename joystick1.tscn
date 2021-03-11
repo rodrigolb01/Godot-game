@@ -1,0 +1,27 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://TouchScreenButton.gd" type="Script" id=1]
+[ext_resource path="res://joystick1.png" type="Texture" id=2]
+[ext_resource path="res://joystick2.png" type="Texture" id=3]
+[ext_resource path="res://joystick1.cs" type="Script" id=4]
+[ext_resource path="res://joystick3.png" type="Texture" id=5]
+[ext_resource path="res://joystick4.png" type="Texture" id=6]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 72.0
+
+[node name="joystick1" type="Sprite"]
+position = Vector2( 549.535, 264.502 )
+scale = Vector2( 0.5, 0.5 )
+texture = ExtResource( 2 )
+script = ExtResource( 4 )
+
+[node name="TouchScreenButton" type="TouchScreenButton" parent="."]
+position = Vector2( -77.3911, -76.0497 )
+normal = ExtResource( 3 )
+pressed = ExtResource( 5 )
+shape = SubResource( 1 )
+script = ExtResource( 1 )
+
+[node name="shoot_area" type="Sprite" parent="."]
+texture = ExtResource( 6 )

@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Bullet2.tscn" type="PackedScene" id=1]
+[ext_resource path="res://icon.png" type="Texture" id=2]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 34.1449, 37.8675 )
+
+[node name="Node2D" type="Node2D"]
+
+[node name="bullet2" parent="." instance=ExtResource( 1 )]
+rotation = 0.785398
+
+[node name="RigidBody2D" type="RigidBody2D" parent="."]
+position = Vector2( 296.665, 257.709 )
+mass = 12.6122
+gravity_scale = 0.0
+
+[node name="Sprite" type="Sprite" parent="RigidBody2D"]
+texture = ExtResource( 2 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RigidBody2D"]
+shape = SubResource( 1 )

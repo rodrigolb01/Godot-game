@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\C C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"xstring": "cpp",
+			"iostream": "cpp",
+			"xlocale": "cpp"
+		}
+	}
+}

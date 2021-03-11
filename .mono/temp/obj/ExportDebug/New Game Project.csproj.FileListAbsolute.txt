@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\bin\ExportDebug\New Game Project.dll
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\bin\ExportDebug\New Game Project.pdb
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.AssemblyInfo.cs
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.dll
+C:\Users\Acer\Desktop\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.pdb
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\bin\ExportDebug\New Game Project.dll
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\bin\ExportDebug\New Game Project.pdb
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.AssemblyInfo.cs
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.dll
+C:\Users\Acer\Desktop\godot projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.pdb
